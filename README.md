@@ -1,4 +1,2 @@
-# myfirstRepository
-My first Repository.
-<br>
-Auther - ASHIS KORA
+BRAINDEATH : PROBLEM 2
+Detecting Multimodal Hate Speech in Internet Memes
