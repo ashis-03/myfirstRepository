@@ -17,7 +17,7 @@ stemmer = SnowballStemmer("english")
 stopword = set(stopwords.words("english"))
 
 # Load the dataset
-df = pd.read_csv("hatememe_data.csv")  # Adjust file name and path if necessary
+df = pd.read_csv("braindeath.csv")  # Adjust file name and path if necessary
 print(df.head())
 
 # Map class labels
